@@ -1,4 +1,4 @@
-## Azure 提取 API
+## Azure 提取 API （自测）
 
 ```shell
 wget -N https://raw.githubusercontents.com/mskku999/notes/master/azapi.sh && bash azapi.sh
